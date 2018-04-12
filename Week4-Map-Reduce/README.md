@@ -7,6 +7,6 @@ A MapReduce program is composed of **map** functions and **reduce** functions. *
 There are two programming assignments for the lessons of Week 4:
 
 - [Wordcount](https://github.com/JiangXue0820/Cousera-Hadoop-Platform-And-Application-Framework/tree/master/Week4-Map-Reduce/assignment1-Wordcount)
-- Joining Data
-  - Simple Join
+- [Joining Data](https://github.com/JiangXue0820/Cousera-Hadoop-Platform-And-Application-Framework/tree/master/Week4-Map-Reduce/assignment2-join-data)
+  - Simple Join
   - Advanced Join
